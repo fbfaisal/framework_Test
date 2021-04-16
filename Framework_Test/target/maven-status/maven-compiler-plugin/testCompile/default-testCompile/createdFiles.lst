@@ -1,0 +1,7 @@
+com\framework\pages\BaseClass.class
+com\framework\pages\LoginPage.class
+com\framework\testcases\LoginTestOrange.class
+com\framework\utility\Helper.class
+com\framework\utility\ConfigDataProvider.class
+com\framework\utility\ExcelDataProvider.class
+com\framework\utility\BrowserFactory.class
