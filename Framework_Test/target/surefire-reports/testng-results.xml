@@ -2,35 +2,35 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-04-16T21:43:54Z" name="Suite" finished-at="2021-04-16T21:44:06Z" duration-ms="11770">
+  <suite started-at="2021-04-17T09:04:05Z" name="Suite" finished-at="2021-04-17T09:04:22Z" duration-ms="16616">
     <groups>
     </groups>
-    <test started-at="2021-04-16T21:43:54Z" name="Test" finished-at="2021-04-16T21:44:06Z" duration-ms="11770">
+    <test started-at="2021-04-17T09:04:05Z" name="Test" finished-at="2021-04-17T09:04:22Z" duration-ms="16616">
       <class name="com.framework.testcases.LoginTestOrange">
-        <test-method is-config="true" signature="setupsuite()[pri:0, instance:com.framework.testcases.LoginTestOrange@6fdbe764]" started-at="2021-04-16T21:43:53Z" name="setupsuite" finished-at="2021-04-16T21:43:54Z" duration-ms="712" status="PASS">
+        <test-method is-config="true" signature="setupsuite()[pri:0, instance:com.framework.testcases.LoginTestOrange@2b175c00]" started-at="2021-04-17T09:04:04Z" name="setupsuite" finished-at="2021-04-17T09:04:05Z" duration-ms="1045" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setupsuite -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.framework.testcases.LoginTestOrange@6fdbe764]" started-at="2021-04-16T21:43:54Z" name="setup" finished-at="2021-04-16T21:43:59Z" duration-ms="5316" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.framework.testcases.LoginTestOrange@2b175c00]" started-at="2021-04-17T09:04:05Z" name="setup" finished-at="2021-04-17T09:04:16Z" duration-ms="10967" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="loginapp()[pri:0, instance:com.framework.testcases.LoginTestOrange@6fdbe764]" started-at="2021-04-16T21:43:59Z" name="loginapp" finished-at="2021-04-16T21:44:03Z" duration-ms="3857" status="PASS">
+        <test-method signature="loginapp()[pri:0, instance:com.framework.testcases.LoginTestOrange@2b175c00]" started-at="2021-04-17T09:04:16Z" name="loginapp" finished-at="2021-04-17T09:04:20Z" duration-ms="3653" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginapp -->
-        <test-method is-config="true" signature="teardownmethod(org.testng.ITestResult)[pri:0, instance:com.framework.testcases.LoginTestOrange@6fdbe764]" started-at="2021-04-16T21:44:03Z" name="teardownmethod" finished-at="2021-04-16T21:44:05Z" duration-ms="1713" status="PASS">
+        <test-method is-config="true" signature="teardownmethod(org.testng.ITestResult)[pri:0, instance:com.framework.testcases.LoginTestOrange@2b175c00]" started-at="2021-04-17T09:04:20Z" name="teardownmethod" finished-at="2021-04-17T09:04:20Z" duration-ms="757" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=loginapp status=SUCCESS method=LoginTestOrange.loginapp()[pri:0, instance:com.framework.testcases.LoginTestOrange@6fdbe764] output={null}]]]>
+                <![CDATA[[TestResult name=loginapp status=SUCCESS method=LoginTestOrange.loginapp()[pri:0, instance:com.framework.testcases.LoginTestOrange@2b175c00] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardownmethod -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.framework.testcases.LoginTestOrange@6fdbe764]" started-at="2021-04-16T21:44:05Z" name="teardown" finished-at="2021-04-16T21:44:06Z" duration-ms="861" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.framework.testcases.LoginTestOrange@2b175c00]" started-at="2021-04-17T09:04:20Z" name="teardown" finished-at="2021-04-17T09:04:22Z" duration-ms="1209" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
